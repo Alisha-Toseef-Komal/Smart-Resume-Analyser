@@ -2,4 +2,3 @@ flask
 PyPDF2
 spacy
 nltk
-gunicorn
